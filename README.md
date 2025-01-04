@@ -5,9 +5,8 @@ This project aims to predict vehicle insurance interest among health policyholde
 1. Problem Understanding and Hypothesis: Laying the groundwork for predictive insights.
 Exploratory Data Analysis (EDA):
 
-> Trend, trait, and feature distribution analysis.
-> 
-> Customer personas and potential engagement channels.
+- Trend, trait, and feature distribution analysis.
+- Customer personas and potential engagement channels.
 
 2. Feature Engineering:
 Techniques like binning and categorical encoding.
