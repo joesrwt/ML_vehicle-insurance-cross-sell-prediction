@@ -1,26 +1,43 @@
 # health-insurance-cross-sell-prediction
 
-This project aims to predict vehicle insurance interest among health policyholders, providing actionable insights into customer behavior and potential engagement strategies.
+Content Summary
 
-1. Problem Understanding and Hypothesis: Laying the groundwork for predictive insights.
-Exploratory Data Analysis (EDA):
+Understand and Hypothesis the problem
 
-- Trend, trait, and feature distribution analysis.
-- Customer personas and potential engagement channels.
+Exploratory Data Analysis
 
-2. Feature Engineering:
-Techniques like binning and categorical encoding.
+Trend, Trait and distribution across all features
 
-3. Feature Selection:
-Insights from EDA and statistical methods (e.g., mutual_info_classif).
+insights : Cross-sell Target Customer Personas
 
-4. Imbalance Handling:
-Oversampling using SMOTE and ADASYN.
+insights : Revealing Potential Channels and Areas for Engagement
 
-5. Model Development and Evaluation:
-Algorithm selection and optimization.
- 
-6. Metrics: PR AUC, F1 score, precision, recall (emphasizing false negatives).
+Feature Engineering :
+Binning and Categorical Encoding
 
-7. Feature Importance and Prediction:
-Identifying key predictors for better targeting.
+Feature selection
+with EDA insights and mutual_info_classif
+
+Modeling and Evaluation
+
+Compare Baseline
+low-complexity models: Decision Tree.
+ensemble methods: Random Forest
+boosting techniques: CatBoost for complex patterns.
+vs the models with oversampling technique
+
+SMOTE vs ADASYN for oversampling
+
+Hyperparameter Tuning
+
+Model Selection on appropriate algorithms
+
+Evaluation Matrices
+
+: f1 score (Trade off rate of false negatives and false positives) and efficiency of handling imbalance issue
+
+: Also Recall (Concerning about false negatives)
+
+Best model Prediction and Feature Importance
+
+Conclusion and Recommendations for converting and raising customers interest
