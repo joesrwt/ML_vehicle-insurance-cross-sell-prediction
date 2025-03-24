@@ -1,8 +1,8 @@
 # health-insurance-cross-sell-prediction
 
-Content Summary
+**Content Summary**
 
-Understand and Hypothesis the problem
+1 - Understand and Hypothesis the problem
 
 Exploratory Data Analysis
 
