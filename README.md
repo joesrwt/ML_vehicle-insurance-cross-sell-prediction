@@ -2,42 +2,42 @@
 
 **Content Summary**
 
-1 - Understand and Hypothesis the problem
+- 1) Understand and Hypothesis the problem
 
-Exploratory Data Analysis
+- 2) Exploratory Data Analysis
 
-Trend, Trait and distribution across all features
+- 3) Trend, Trait and distribution across all features
 
-insights : Cross-sell Target Customer Personas
+- 4) insights : Cross-sell Target Customer Personas
 
-insights : Revealing Potential Channels and Areas for Engagement
+     insights : Revealing Potential Channels and Areas for Engagement
 
-Feature Engineering :
-Binning and Categorical Encoding
+- 5) Feature Engineering : Binning and Categorical Encoding
 
-Feature selection
-with EDA insights and mutual_info_classif
+- 6) Feature selection with EDA insights and mutual_info_classif
 
-Modeling and Evaluation
+- 7) Modeling and Evaluation
 
-Compare Baseline
-low-complexity models: Decision Tree.
-ensemble methods: Random Forest
-boosting techniques: CatBoost for complex patterns.
+> Compare Baseline
+
+> low-complexity models: Decision Tree.
+> 
+> ensemble methods: Random Forest
+>
+> boosting techniques: CatBoost for complex patterns.
+
 vs the models with oversampling technique
 
-SMOTE vs ADASYN for oversampling
+> SMOTE vs ADASYN for oversampling
 
-Hyperparameter Tuning
+- 8) Hyperparameter Tuning
 
-Model Selection on appropriate algorithms
+- 9) Evaluation Matrices
 
-Evaluation Matrices
+> : f1 score (Trade off rate of false negatives and false positives) and efficiency of handling imbalance issue
 
-: f1 score (Trade off rate of false negatives and false positives) and efficiency of handling imbalance issue
+> : Also Recall (Concerning about false negatives)
 
-: Also Recall (Concerning about false negatives)
+- 10) Best model Prediction and Feature Importance
 
-Best model Prediction and Feature Importance
-
-Conclusion and Recommendations for converting and raising customers interest
+- 11) Conclusion and Recommendations for converting and raising customers interest
