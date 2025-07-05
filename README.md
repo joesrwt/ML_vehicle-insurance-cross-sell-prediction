@@ -17,6 +17,8 @@
 
      insights : Revealing Potential Channels and Areas for Engagement
 
+<img src="https://raw.githubusercontent.com/joesrwt/ML_vehicle-insurance-cross-sell-prediction/main/Image 5-7-2568 BE at 15.38.jpeg" style="max-width:100%; border-radius:8px;">
+
 - 4) Feature Engineering : Binning and Categorical Encoding
 
 - 5) Feature selection with EDA insights and mutual_info_classif
